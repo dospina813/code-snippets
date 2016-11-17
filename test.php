@@ -3,7 +3,7 @@
 // when you want to list it, run the get_discog() method with whatever page you want in it
 // then loop through it like below, with whatever HTML you want.
 
-// For Davidson Ospina
+// Testing Davidson Ospina
 
 
 /**
