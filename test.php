@@ -1,4 +1,4 @@
-// put the function in the wordpress themes functions.php file
+// put the function in the wordpress themes functions.php file 
 
 // when you want to list it, run the get_discog() method with whatever page you want in it
 // then loop through it like below, with whatever HTML you want.
